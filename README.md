@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me **ygupta2001@gmail.com**
 
-<br>
-<br>
+![snake gif](https://github.com/YashGupta018/YashGupta018/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">Languages and Tools:</h3>
 
