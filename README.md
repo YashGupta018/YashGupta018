@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python 🐍
 - 👨‍💻 All of my projects are available at [https://github.com/YashGupta018](https://github.com/YashGupta018)
 - 👯 I’m looking to collaborate as a Frontend Developer 🙇🏻
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ... -->
 - 📫 How to reach me **ygupta2001@gmail.com**
 
 ![snake gif](https://github.com/YashGupta018/YashGupta018/blob/output/github-contribution-grid-snake.svg)
