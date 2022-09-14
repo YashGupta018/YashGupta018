@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
 <a><img src="https://komarev.com/ghpvc/?username=YashGupta018&label=Profile%20views&color=0e75b6&style=flat" alt="YashGupta018" /></a>
-<a href="https://twitter.com/__Dark_Shadow_" target="blank"><img src="https://img.shields.io/twitter/url?label=Dark%20Shadow&style=social" alt="DarkShadow" /></a>&nbsp
+<a href="https://twitter.com/__Dark_Shadow_" ><img src="https://img.shields.io/twitter/follow/__Dark_Shadow_.svg?style=social" /> </a>
 <a href="https://github.com/YashGupta018" target="_blank"><img src="https://img.shields.io/github/followers/YashGupta018?label=Github%20&style=social" alt="yashgupta018.github.io"/></a>&nbsp
    <a href="mailto:ygupta2001@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ygupta2001@gmail.com" />
