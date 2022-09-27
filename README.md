@@ -83,7 +83,6 @@ Here are some ideas to get you started:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashGupta018&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="YashGupta018" />
 </p>
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YashGupta018&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YashGupta018&theme=tokyonight&hide_border=true" />
