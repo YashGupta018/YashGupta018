@@ -44,9 +44,6 @@ Here are some ideas to get you started:
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
       <img src="https://github.com/YashGupta018/GitHub/blob/main/javascript-animation.gif" alt="JavaScript" width="40" height="40"/>
    </a>
-   <!--<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>-->
    <a href="https://developer.apple.com/swift/" target="_blank">
       <img src="https://github.com/YashGupta018/GitHub/blob/main/swift-icon.svg" alt="Swift" width="40" height="40"/>
    </a>
