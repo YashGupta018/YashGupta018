@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I’m currently working on myself 🧘🏻
+- 🔭 I’m currently working on my consistency 🧘🏻
 - 🌱 I’m currently Grinding Leetcode 👨🏻‍💻
 - 👨‍💻 All of my projects are available at [https://github.com/YashGupta018](https://github.com/YashGupta018)
 - 👯 I’m looking to collaborate as a Frontend Developer 🙇🏻
