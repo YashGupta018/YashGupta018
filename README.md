@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## ✨GitHub Stats  : 
+## ✨GitHub Stats : 
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashGupta018&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="YashGupta018" />
