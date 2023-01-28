@@ -71,7 +71,7 @@ Here are some ideas to get you started:
    <a href="https://github.com/" target="_blank">
       <img src="https://github.com/YashGupta018/GitHub/blob/main/icons8-git.svg" alt="Git" width="40" height="40"/>
    </a>
-   <a href="https://github.com/" target="_blank">
+   <a href="https://github.com/" target="blank">
       <img src="https://github.com/YashGupta018/GitHub/blob/main/icons8-github.svg" alt="GitHub" width="40" height="40"/>
    </a>
 </p>
