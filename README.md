@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-<h3 align="center"> An Avid Programmer and Frontend Developer </h3>
+<h3 align="center"> An Avid Programmer and Frontend Developer  </h3>
 
 <img width="50%" align="right" alt="Github Image" src="https://github.com/YashGupta018/GitHub/blob/main/code.svg" />
 
