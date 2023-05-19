@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 <a><img src="https://komarev.com/ghpvc/?username=YashGupta018&label=Profile%20views&color=0e75b6&style=flat" alt="YashGupta018" /></a>
 <a href="https://twitter.com/__Dark_Shadow_" ><img src="https://img.shields.io/twitter/follow/__Dark_Shadow_.svg?style=social" /> </a>
 <a href="https://github.com/YashGupta018" target="_blank"><img src="https://img.shields.io/github/followers/YashGupta018?label=Github%20&style=social" alt="yashgupta018.github.io"/></a>&nbsp
-   <a href="mailto:ygupta2001@gmail.com">
+   <a href="mailto:ygupta2001@gmail.com"><br>
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ygupta2001@gmail.com" />
-  </a>
+   </a>
+   <a href="https://www.linkedin.com/in/yash-gupta-71b011189/" target="blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/LinkedIn_Logo_2013_%282%29.svg" alt="yash" height="30" width="110" />
+   </a>
 </p>
 
 - 🔭 I’m currently working on my Consistency 🧘🏻
