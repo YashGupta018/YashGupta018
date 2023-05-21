@@ -95,4 +95,6 @@ Here are some ideas to get you started:
 
 <br/>  
 
+<!--
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=YashGupta018&theme=nord) 
+-->
